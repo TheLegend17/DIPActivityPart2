@@ -1,0 +1,11 @@
+D:\IS\DIPActivityPart2\DIPActivityPart2\bin\Debug\DIPActivityPart2.exe.config
+D:\IS\DIPActivityPart2\DIPActivityPart2\bin\Debug\DIPActivityPart2.exe
+D:\IS\DIPActivityPart2\DIPActivityPart2\bin\Debug\DIPActivityPart2.pdb
+D:\IS\DIPActivityPart2\DIPActivityPart2\obj\Debug\DIPActivityPart2.csproj.AssemblyReference.cache
+D:\IS\DIPActivityPart2\DIPActivityPart2\obj\Debug\DIPActivityPart2.csproj.SuggestedBindingRedirects.cache
+D:\IS\DIPActivityPart2\DIPActivityPart2\obj\Debug\DIPActivityPart2.Form1.resources
+D:\IS\DIPActivityPart2\DIPActivityPart2\obj\Debug\DIPActivityPart2.Properties.Resources.resources
+D:\IS\DIPActivityPart2\DIPActivityPart2\obj\Debug\DIPActivityPart2.csproj.GenerateResource.cache
+D:\IS\DIPActivityPart2\DIPActivityPart2\obj\Debug\DIPActivityPart2.csproj.CoreCompileInputs.cache
+D:\IS\DIPActivityPart2\DIPActivityPart2\obj\Debug\DIPActivityPart2.exe
+D:\IS\DIPActivityPart2\DIPActivityPart2\obj\Debug\DIPActivityPart2.pdb
